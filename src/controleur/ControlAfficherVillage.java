@@ -10,6 +10,7 @@ public class ControlAfficherVillage {
 	}
 
 	public String[] donnerNomsVillageois() {
+		System.out.print("test");
 		return village.donnerVillageois();
 	}
 
